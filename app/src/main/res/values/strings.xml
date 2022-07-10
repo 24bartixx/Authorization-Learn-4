@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_text">Login</string>
+    <string name="login_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="not_have_account">Not have account? <b>Sign up</b></string>
+
+    <string name="sign_up_text">SignUp</string>
+
+    <string name="logged_text">You\'re logged as</string>
+    <string name="logout_text">Logout</string>
+</resources>
