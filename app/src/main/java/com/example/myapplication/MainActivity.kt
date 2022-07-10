@@ -36,6 +36,8 @@ class MainActivity : AppCompatActivity() {
             firebaseAuth.signOut()
             checkUser()
         }
+
+        // binding.logged.text = getString(R.string.logged_text)
     }
 
     private fun checkUser(){

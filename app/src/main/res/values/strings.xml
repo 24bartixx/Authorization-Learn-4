@@ -7,6 +7,15 @@
 
     <string name="sign_up_text">SignUp</string>
 
-    <string name="logged_text">You\'re logged as</string>
+    <string name="logged_text">You are logged as</string>
     <string name="logout_text">Logout</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">522361846352401</string>
+    <string name="fb_login_protocol_scheme">fb522361846352401</string>
+    <string name="facebook_client_token">2a0945d92c93c9e65b9ed7f1981af573</string>
+
+
+
+
 </resources>
